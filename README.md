@@ -4,11 +4,11 @@ This repository provides the microbial network analysis code and datasets for th
 
 ## **Code**
 
-- notebooks/FAP_microbial_network_SparCC.ipynb:
+- notebook/FAP_microbial_network_SparCC.ipynb:
 
     - To visualize co-occurrence and co-exclusion patterns among ASVs in a specific group.
     
-- notebooks/CRC_metabolic_pathway_ridge_plot.ipynb:
+- notebook/CRC_metabolic_pathway_ridge_plot.ipynb:
 
     - to visualize differences in abundances between two groups using ridge plots.
 
