@@ -23,7 +23,7 @@ This repository provides the microbial network analysis code and datasets for th
 
 ## License & Copyright
 
-- Code License (LICENSE.txt): All data in the code/ directory are licensed under the MIT LICENSE.
+- Code License (LICENSE): All data in the code/ directory are licensed under the MIT LICENSE.
 
 - Data License (LICENSE-data.txt): All data in the data/ directory are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 
