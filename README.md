@@ -20,6 +20,7 @@ This repository provides the microbial network analysis code and datasets for th
 • data/Escherichia_coli_34_ASVs_sequences.txt: Sequences data proving that the *E*. *coli* 16S rRNA sequences variants are distinct from the pro-carcinogenic *pks*<sup>+</sup> *E*. *coli* HM229 strain.
 
 
+
 License & Copyright
 
 • Code License (LICENSE.txt): All data in the code/ directory are licensed under the MIT LICENSE.
