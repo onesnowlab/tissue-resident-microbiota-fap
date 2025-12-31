@@ -1,0 +1,13 @@
+feature,Species (if ASV),metadata,value,coef,stderr,N,N.not.0,pval,qval,Group,Site
+X41c21acf2d74aa79beb8430519c288b2,s__Bulleidia_moorei:Solobacterium_moorei,Age,Age,1.425500145,0.369416675,28,6,0.000752275,0.081568118,FAP,Tumor
+X1f0503db6b3674f65719ef8a56cb6424,s__Pseudomonas_guezennei-otitidis,Age,Age,1.033675224,0.300309617,28,3,0.002125882,0.134462011,FAP,Tumor
+X6b83acb5794bc53d1ef24892506e3eae,s__Pseudomonas_aeruginosa,Age,Age,0.678508673,0.20441323,28,3,0.002873239,0.155770607,FAP,Tumor
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas.s__Pseudomonas_guezennei.otitidis,-,Age,Age,1.272948014,0.366763709,28,3,0.001980441,0.179229923,FAP,Tumor
+k__Bacteria.p__Firmicutes.c__Erysipelotrichia.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Bulleidia.Solobacterium.s__Bulleidia_moorei.Solobacterium_moorei,-,Age,Age,0.685550464,0.196861752,28,5,0.001924322,0.179229923,FAP,Tumor
+k__Bacteria.p__Firmicutes.c__Tissierellia.o__Tissierellales.f__Peptoniphilaceae.g__Parvimonas.s__Parvimonas_micra,-,Age,Age,0.68777668,0.212027541,28,5,0.003453549,0.212103535,FAP,Tumor
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas.s__Pseudomonas_aeruginosa,-,Age,Age,0.766850901,0.230171788,28,3,0.002787798,0.212103535,FAP,Tumor
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae.g__Pseudomonas,-,Age,Age,1.653734675,0.430413532,28,8,0.000784322,0.158825191,FAP,Tumor
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales.f__Pseudomonadaceae,-,Age,Age,1.651725465,0.429958698,28,8,0.000785523,0.181455786,FAP,Tumor
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pseudomonadales,-,Age,Age,1.652762353,0.430293968,28,8,0.000786676,0.106201282,FAP,Tumor
+k__Bacteria.p__Firmicutes.c__Tissierellia.o__Tissierellales,-,Age,Age,0.682004414,0.209723437,28,5,0.003386105,0.228562065,FAP,Tumor
+X2ad744a6898b4a06f5e0a2a4274c90ea,s__Bacteroides_ovatus,Age,Age,0.777508758,0.197369997,60,10,0.000228785,0.154429826,Sporadic CRC,Tumor
